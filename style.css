@@ -64,3 +64,9 @@ body {
       background-color: #2d2929;
       color: #bd180c;
 }
+
+.btn {
+      background-color: #5555e5;
+      font-weight: 500;
+      color: white;
+}
