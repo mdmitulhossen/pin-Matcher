@@ -28,3 +28,39 @@ body {
       text-align: center;
       margin-top: 20px;
 }
+
+
+.matched {
+      background-color: #434141fc;
+      color: white;
+      width: 360px;
+      padding: 5px;
+      margin-bottom: 10px;
+      border-radius: 50px;
+      text-align: center;
+      margin: 0 auto;
+      display: none;
+}
+.matched i {
+      background-color: #b1ea83;
+      color: rgb(12, 189, 12);
+      border: none;
+      margin: 0 5px;
+      border-radius: 5px;
+      
+}
+
+#dmatch i{
+      background-color: #2d2929;
+      color: #bd180c;
+}
+#dmatch {
+      margin-bottom: 15px;
+}
+#dGanarate{
+      margin-top: 15px;
+}
+#dGanarate i{
+      background-color: #2d2929;
+      color: #bd180c;
+}
