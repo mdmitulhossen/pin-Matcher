@@ -1,0 +1,30 @@
+body {
+      background-color: #262323fc;
+}
+
+.card{
+      background-color: #434141fc;
+      color: white;
+      
+}
+.card-body #generatePin{
+      width: 150px;
+      height: 150px;
+      border: 5px solid #7e7ef3;
+      border-radius: 50%;
+      background-color: #5555e5;
+      display: flex; 
+      justify-content: center;
+      align-items: center;
+      margin: 60px auto;
+      cursor: pointer;
+}
+.card-body #generatePin:hover{
+      background-color: #3737ea;
+}
+.card-body #generatePin p{
+      font-size: 25px;
+      font-weight: 700;
+      text-align: center;
+      margin-top: 20px;
+}
